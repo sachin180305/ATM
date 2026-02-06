@@ -1,10 +1,5 @@
-# login_ui.py
-# Frontend Login Module
-
 def login():
-    print("=================================")
     print("        WELCOME TO ATM            ")
-    print("=================================")
 
     pin = input("Enter your 4-digit PIN: ")
 
